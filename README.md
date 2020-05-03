@@ -1,2 +1,2 @@
 # hanshinDWH
-testrepo
+testrepo_rev
